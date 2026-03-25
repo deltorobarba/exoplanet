@@ -1,17 +1,15 @@
-# Exoplanet Research
-
-Exoplanet Research Skill for Starters
+# Exoplanet Research Skill for Starters
 
 *Author: Alexander Del Toro Barba*
+
+Explore exoplanets in a variety of ways directly in natural language and without astronomy coding knowledge - this is your expert who does the heavy work in the background.
+
 
 Install skill on Gemini CLI:
 ```
 git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
 ```
-
-You can explore explore exoplanets in a variety of ways directly in natural language and without astronomy coding knowledge - this is your expert who does the heavy work in the background.
-
 
 **🔭 Explore & discover**
 ```
