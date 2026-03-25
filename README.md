@@ -1,2 +1,4 @@
-# exoplanet
-Exoplanet Research Skill
+# Exoplanet Research
+Exoplanet Research Skill for Starters
+
+
