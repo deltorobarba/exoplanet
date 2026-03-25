@@ -1,6 +1,8 @@
 # Exoplanet Research
+
 Exoplanet Research Skill for Starters
 
+Author: Alexander Del Toro Barba
 
 Install skill on Gemini CLI:
 ```
@@ -12,7 +14,7 @@ Explore exoplanets
 
 **🔭 Explore & discover**
 ```
-Explore exoplanets discovered in 2016 using the Transit method
+Explore 5 confirmed exoplanets discovered in 2016 using the Transit method
 ```
 ```
 Search for all confirmed exoplanets with "Kepler" in the name
@@ -40,7 +42,7 @@ What Kepler, TESS, and K2 observations are available for Kepler-8 b?
 Search all available mission data for K2-18 b and tell me which pipeline has the best cadence
 ```
 
-**📊 Visualize**
+**Visualize**
 ```
 Download the Kepler pixel file for Kepler-8 b and plot the pixel map
 ```
@@ -51,7 +53,7 @@ Plot the normalized PLD light curve for Kepler-8 b with outliers removed
 Load the TESS SPOC 120s data for K2-18 b and visualize it
 ```
 
-**📈 Periodogram & orbital period**
+**Periodogram & orbital period**
 ```
 Run a BLS periodogram on Kepler-8 b and find its orbital period
 ```
@@ -61,9 +63,9 @@ Calculate the orbital period of Kepler-8 b and show me the phase-folded transit 
 
 ---
 
-**Pro tip — chain the full workflow in one prompt:**
+**For full astronomy workflow in one prompt:**
 ```
 Research Kepler-8 b end to end: pull its NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
 
-That single prompt should trigger the skill and walk through `details.py → missions.py → periodogram.py` in sequence. That's the real power of having it as a skill.
+That prompt triggers the skill and walk through `details.py → missions.py → periodogram.py` in sequence 🪐
