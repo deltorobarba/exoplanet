@@ -71,6 +71,7 @@ That prompt triggers the skill and walk through `details.py → missions.py → 
 
 **Structure of this Skill**
 
+```
 exoplanet-researcher/
 ├── SKILL.md              ← skill descriptor + full workflow guide
 ├── requirements.txt      ← lightkurve, astroquery, astropy, matplotlib
@@ -81,3 +82,4 @@ exoplanet-researcher/
     ├── load_tess.py      ← download + cache a TESS pixel file
     ├── visualize_kepler.py  ← pixel map (linear+log) + PLD light curve
     └── periodogram.py    ← BLS periodogram + folded transit + orbital period
+```
