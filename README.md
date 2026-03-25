@@ -68,3 +68,16 @@ Research Kepler-8 b end to end: pull its NASA details, check what missions are a
 ```
 
 That prompt triggers the skill and walk through `details.py → missions.py → periodogram.py` in sequence 🪐
+
+**Structure of this Skill**
+
+exoplanet-researcher/
+├── SKILL.md              ← skill descriptor + full workflow guide
+├── requirements.txt      ← lightkurve, astroquery, astropy, matplotlib
+└── scripts/
+    ├── explore.py        ← browse planets by year/method/name
+    ├── details.py        ← pull NASA archive details for one planet
+    ├── missions.py       ← list all Kepler/TESS/K2 observations
+    ├── load_tess.py      ← download + cache a TESS pixel file
+    ├── visualize_kepler.py  ← pixel map (linear+log) + PLD light curve
+    └── periodogram.py    ← BLS periodogram + folded transit + orbital period
