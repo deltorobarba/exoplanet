@@ -2,7 +2,7 @@
 
 Exoplanet Research Skill for Starters
 
-Author: Alexander Del Toro Barba
+*Author: Alexander Del Toro Barba*
 
 Install skill on Gemini CLI:
 ```
@@ -42,7 +42,7 @@ What Kepler, TESS, and K2 observations are available for Kepler-8 b?
 Search all available mission data for K2-18 b and tell me which pipeline has the best cadence
 ```
 
-**Visualize**
+**Visualize Infrared Data Plots**
 ```
 Download the Kepler pixel file for Kepler-8 b and plot the pixel map
 ```
@@ -53,7 +53,7 @@ Plot the normalized PLD light curve for Kepler-8 b with outliers removed
 Load the TESS SPOC 120s data for K2-18 b and visualize it
 ```
 
-**Periodogram & orbital period**
+**Calculate Periodogram & Orbital Period**
 ```
 Run a BLS periodogram on Kepler-8 b and find its orbital period
 ```
