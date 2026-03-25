@@ -10,7 +10,8 @@ git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
 ```
 
-Explore exoplanets 
+You can explore explore exoplanets in a variety of ways directly in natural language and without astronomy coding knowledge - this is your expert who does the heavy work in the background.
+
 
 **🔭 Explore & discover**
 ```
