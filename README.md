@@ -67,5 +67,5 @@ exoplanet-researcher/
     └── periodogram.py       ← BLS periodogram + folded transit + orbital period
 ```
 
-Version 1.0. Last update: March-28-2026
+*Version 1.0. Last update: March-28-2026*
 
