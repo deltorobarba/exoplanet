@@ -21,10 +21,27 @@ gemini skills install ./exoplanet
     Exoplanet Research Skill initialized..
 ```
 
-**🔭 Explore & discover**
+**The power of Agent Skills is to run expert in procedual knowledge. Try to run this multi-step, fully automated astronomy workflow:**
+```
+Research Kepler-8 b end to end: pull its NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
+```
+
+
+```
+ _________________       _________________       _________________
+|  Planet facts   |     |  Mission data   |     |   BLS output    |
+|  star + method  | --> |  Kepler · TESS  | --> |  period · plots  |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+```
+
+Ask questions about exoplanets:
+
 ```
 Explore 5 confirmed exoplanets discovered in 2016 using the Transit method
 ```
+
+**🔭 Explore & discover**
+
 ```
 Search for all confirmed exoplanets with "Kepler" in the name
 ```
@@ -72,26 +89,10 @@ Calculate the orbital period of Kepler-8 b and show me the phase-folded transit 
 
 ---
 
-**The power of Agent Skills is to run expert in procedual knowledge. Try to run this multi-step, fully automated astronomy workflow:**
-```
-Research Kepler-8 b end to end: pull its NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
-```
+
 
 That prompt triggers the skill and walk through `details.py → missions.py → periodogram.py` in sequence 🪐
 
-```
- _________________       _________________       _________________
-|  Planet facts   |     |  Mission data   |     |   BLS output    |
-|  star + method  | --> |  Kepler · TESS  | --> |  period · plots  |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-```
-
-```
-graph LR
-    A[**Planet facts** <br> star + method] --> B[**Mission data** <br> Kepler · TESS]
-    B --> C[**BLS output** <br> period · plots]
-
-```
 
 **Structure of this Skill**
 
