@@ -36,20 +36,6 @@ Before running any script, ensure dependencies are installed:
 pip install -r requirements.txt --quiet
 ```
 
-## Setup
-
-Install dependencies once per environment:
-
-```bash
-pip install lightkurve astroquery astropy matplotlib --quiet
-```
-
-Or use the bundled requirements file:
-
-```bash
-pip install -r requirements.txt --quiet
-```
-
 ---
 
 ## Step-by-Step Workflow
