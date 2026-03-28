@@ -36,7 +36,7 @@ gemini skills install ./exoplanet
 Sample questions to analyse exoplanets 🔭
 
 ```
-Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
+Explore 5 confirmed exoplanets with "Kepler" and "TRAPPIST" in the name discovered in 2016 using the Transit method
 ```
 
 ```
