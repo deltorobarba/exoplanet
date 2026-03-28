@@ -31,6 +31,9 @@ gemini skills install ./exoplanet
 |  'details.py'     |     |   'missions.py'   |      | 'periodogram.py'  |
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
+
+*Artist's concept of the potentially habitable exoplanet Kepler-186f*
 
 Sample questions to analyse exoplanets 🔭
 
@@ -46,7 +49,6 @@ Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 usin
 What Kepler, TESS, and K2 observations are available for Kepler-8 b? And tell me which pipeline has the best cadence?
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
 
 ---
 
