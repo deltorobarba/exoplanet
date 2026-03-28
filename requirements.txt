@@ -3,3 +3,4 @@ astroquery>=0.4.6
 astropy>=5.0
 matplotlib>=3.5
 numpy>=1.23
+rich>=13.0
