@@ -1,8 +1,8 @@
-# Exoplanet Research Skill
+# Exoplanet Research Skill 🪐
 
 *Author: Alexander Del Toro Barba, PhD*
 
-**Agent Skill expert with procedual knowledge in astrophysics to run multi-step, fully automated astronomy workflow**
+**Run multi-step, fully automated astronomy workflow to explore & discover more about exoplanets and their Mission data**
 
 
 Install skill on Gemini CLI:
@@ -23,15 +23,15 @@ gemini skills install ./exoplanet
 
 
 ```
- ___________________       _________________       _________________
-| Connect to NASA   |      | Load Mission   |      | Create Plots + |
-| Exoplanet Archive |  --> | Data from TESS |  --> | and calculate  |
-| for facts+methods |      |  and Kepler    |      |   Period       |
-|  'details.py'.    |      | 'missions.py'  |      |'periodogram.py'|
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ ___________________        _________________        _________________
+| Connect  NASA 🔭  |      | Load Mission 🛰️ |      |   Plots 🪐     |
+| Exoplanet Archive |  --> | Data from TESS  |  --> | land calculate |
+| for facts+methods |      |  and Kepler     |      |   Period       |
+|  'details.py'     |      | 'missions.py'   |      |'periodogram.py'|
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-**🔭 Use skill pipeline to explore & discover more about exoplanets 🪐 and their 🛰️ Mission data**
+**🔭 Use skill pipeline 
 
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
