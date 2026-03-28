@@ -29,7 +29,7 @@ gemini skills install ./exoplanet
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-**Run multi-step, fully automated astronomy workflow to explore & discover more about exoplanets and their Mission data**
+**Run multi-step, fully automated astronomy workflow to explore & discover more about exoplanets:**
 
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
