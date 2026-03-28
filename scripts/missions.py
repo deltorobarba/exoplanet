@@ -25,7 +25,7 @@ def search_and_print(label, emoji, results):
         try:
             val = row.exptime.value
             val = float(val.flat[0]) if hasattr(val, 'flat') else float(val)
-            exptime = f"{val:.0f}s" if
+            exptime = f"{val:.0f}s"
         except Exception:
             exptime = "?"
         try:
