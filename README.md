@@ -23,11 +23,11 @@ gemini skills install ./exoplanet
 
 
 ```
- _____________________        _________________        _________________
-| Connect to NASA 🔭  |      | Load Mission 🛰️ |      | Plot and  🪐    |
-| Exoplanet Archive   |  --> | TESS & Kepler.  |  --> | Calculate Period |
-|  'details.py'       |      | 'missions.py'   |      | 'periodogram.py' |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ ___________________       ___________________        ___________________ 
+| Connect to NASA   |     | Load Mission Data |      | Compute Period of |
+| Exoplanet Archive | --> |   TESS or Kepler  |  --> | Exoplanet Transit |
+|  'details.py'     |     |   'missions.py'   |      | 'periodogram.py'  |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
 Sample questions to analyse exoplanets 🔭
