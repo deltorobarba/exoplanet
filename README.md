@@ -72,7 +72,7 @@ Calculate the orbital period of Kepler-8 b and show me the phase-folded transit 
 
 ---
 
-**For full astronomy workflow in one prompt:**
+**The power of Agent Skills is to run expert in procedual knowledge. Try to run this multi-step, fully automated astronomy workflow:**
 ```
 Research Kepler-8 b end to end: pull its NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
