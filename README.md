@@ -30,12 +30,11 @@ gemini skills install ./exoplanet
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
+**🔭 Use skill pipeline to explore & discover more about exoplanets and their 🛰️ Mission data**
+
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
-
-
-**🔭 Explore & discover more about exoplanets and their 🛰️ Mission data**
 
 ```
 Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
