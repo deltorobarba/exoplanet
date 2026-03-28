@@ -43,10 +43,7 @@ Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 usin
 ```
 
 ```
-What Kepler, TESS, and K2 observations are available for Kepler-8 b?
-```
-```
-Search all available mission data for K2-18 b and tell me which pipeline has the best cadence
+What Kepler, TESS, and K2 observations are available for Kepler-8 b? And tell me which pipeline has the best cadence?
 ```
 
 ---
