@@ -32,9 +32,13 @@ def get_tpf(target, author, exptime_s):
     if results is None or len(results) == 0:
         raise RuntimeError(f"No pixel files found for '{target}'.")
 
+    def _exptime_s(r):
+    val = r.exptime.value
+    return float(val.flat[0] if hasattr(val, 'flat') else val)
+
     mask = [
-        str(r.author) == author and abs(float(r.exptime.value) - exptime_s) < 5
-        for r in results
+      str(r.author) == author and abs(_exptime_s(r) - exptime_s) < 5
+      for r in results
     ]
     filtered = results[mask]
     if len(filtered) == 0:
