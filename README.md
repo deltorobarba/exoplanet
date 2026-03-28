@@ -17,8 +17,8 @@ gemini skills install ./exoplanet
  |  __|   /  \ | |  | ||  ___/ | |     / ___ \ | . ` ||  __|    | |   
  | |___  / /\ \| |__| || |     | |____/ /   \ \| |\  || |___    | |   
  |_____|/_/  \_\\____/ |_|     |______/_/    \_\_| \_||_____|   |_|   
-                                                                      
-    Exoplanet Research Skill initialized..
+
+ Exoplanet Research Skill initialized..
 ```
 
 
@@ -27,10 +27,11 @@ gemini skills install ./exoplanet
 | Connect to NASA   |      | Load Mission   |      | Create Plots + |
 | Exoplanet Archive |  --> | Data from TESS |  --> | and calculate  |
 | for facts+methods |      |  and Kepler    |      |   Period       |
+|  'details.py'.    |      | 'missions.py'  |      |'periodogram.py'|
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-**🔭 Use skill pipeline to explore & discover more about exoplanets and their 🛰️ Mission data**
+**🔭 Use skill pipeline to explore & discover more about exoplanets 🪐 and their 🛰️ Mission data**
 
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
@@ -46,9 +47,6 @@ What Kepler, TESS, and K2 observations are available for Kepler-8 b? And tell me
 
 ---
 
-
-
-That prompt triggers the skill and walk through `details.py → missions.py → periodogram.py` in sequence 🪐
 
 
 **Structure of this Skill**
