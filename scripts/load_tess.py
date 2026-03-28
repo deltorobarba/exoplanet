@@ -47,7 +47,10 @@ def main():
         mask = (results.author == author)
         filtered = results[mask]
         # Further filter by exptime if possible
-        exp_mask = [abs(float(r.exptime.value) - args.exptime) < 1 for r in filtered]
+        def _exptime_s(r):
+            val = r.exptime.value
+            return float(val.flat[0] if hasattr(val, 'flat') else val)
+        exp_mask = [abs(_exptime_s(r) - args.exptime) < 1 for r in filtered]
         filtered = filtered[exp_mask]
     except Exception:
         filtered = results  # Fall back to all results
