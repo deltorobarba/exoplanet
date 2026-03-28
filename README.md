@@ -1,6 +1,6 @@
 # Exoplanet Research Skill for Starters
 
-*Author: Alexander Del Toro Barba*
+*Author: Alexander Del Toro Barba, PhD*
 
 Explore exoplanets in a variety of ways directly in natural language and without astronomy coding knowledge - this is your expert who does the heavy work in the background.
 
