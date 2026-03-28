@@ -46,7 +46,7 @@ Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 usin
 What Kepler, TESS, and K2 observations are available for Kepler-8 b? And tell me which pipeline has the best cadence?
 ```
 
-Try it with other exoplanets: Trappist-1, WASP-39, K2-18. 
+Try it with other exoplanets: Trappist-1, WASP-39, K2-18. For inspiration, see [NASA Exoplanet Catalogue](https://science.nasa.gov/exoplanets/exoplanet-catalog/)
 
 ---
 
