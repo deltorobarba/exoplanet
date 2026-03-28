@@ -21,7 +21,6 @@ gemini skills install ./exoplanet
 
 
 ```
-Multi-step, fully automated astronomy workflow:
  _____________________        _________________        _________________
 | Connect to NASA 🔭  |      | Load Mission 🛰️ |      | Plot and  🪐    |
 | Exoplanet Archive   |  --> | TESS & Kepler.  |  --> | Calculate Period |
