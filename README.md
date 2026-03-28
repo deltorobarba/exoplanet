@@ -29,7 +29,7 @@ gemini skills install ./exoplanet
 | Connect to NASA   |     | Load Mission Data |      | Compute Period of |
 | Exoplanet Archive | --> |   TESS or Kepler  |  --> | Exoplanet Transit |
 |  'details.py'     |     |   'missions.py'   |      | 'periodogram.py'  |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
 
