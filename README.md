@@ -2,7 +2,7 @@
 
 *Author: Alexander Del Toro Barba, PhD*
 
-Explore exoplanets in a variety of ways directly in natural language and without astronomy coding knowledge - this is your expert who does the heavy work in the background.
+**Agent Skill expert with procedual knowledge in astrophysics to run multi-step, fully automated astronomy workflow**
 
 
 Install skill on Gemini CLI:
@@ -21,20 +21,19 @@ gemini skills install ./exoplanet
     Exoplanet Research Skill initialized..
 ```
 
-**The power of Agent Skills is to run expert in procedual knowledge. Try to run this multi-step, fully automated astronomy workflow:**
+
+```
+ ___________________       _________________       _________________
+| Connect to NASA   |      | Load Mission   |      | Create Plots + |
+| Exoplanet Archive |  --> | Data from TESS |  --> | and calculate  |
+| for facts+methods |      |  and Kepler    |      |   Period       |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+```
+
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
 
-
-```
- _________________       _________________       _________________
-|  NASA Exoplanet
-   Archive
-Planet facts   |     |  Mission data   |     |   BLS output    |
-|  star + method  | --> |  Kepler · TESS  | --> |  period · plots  |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-```
 
 **🔭 Explore & discover more about exoplanets and their 🛰️ Mission data**
 
