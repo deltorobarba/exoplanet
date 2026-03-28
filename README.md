@@ -66,3 +66,6 @@ exoplanet-researcher/
     ├── visualize_kepler.py  ← pixel map (linear+log) + PLD light curve
     └── periodogram.py       ← BLS periodogram + folded transit + orbital period
 ```
+
+Version 1.0. Last update: March-28-2026
+
