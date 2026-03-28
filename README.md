@@ -4,7 +4,7 @@
 
 Become a citizen exoplanet researcher. No need for you to know how to load the exoplanet-research specific libraries, how to connect to NASA databases, decide which mission data to choose, write functions fo calculuate periods and plot periograms - this agent skill does this all for you!
 
-**Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanet missions:**
+**Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanets:**
 
 Install skill on Gemini CLI:
 ```
