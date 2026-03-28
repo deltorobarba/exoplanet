@@ -18,7 +18,7 @@ gemini skills install ./exoplanet
  | |___  / /\ \| |__| || |     | |____/ /   \ \| |\  || |___    | |   
  |_____|/_/  \_\\____/ |_|     |______/_/    \_\_| \_||_____|   |_|   
                                                                       
-    Exoplanet Research Skill v0.9 initialized..
+    Exoplanet Research Skill initialized..
 ```
 
 **🔭 Explore & discover**
