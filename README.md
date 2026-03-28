@@ -2,7 +2,7 @@
 
 *Author: Alexander Del Toro Barba, PhD*
 
-Become a citizen exoplanet researcher. No need for you to know how to load the exoplanet-research specific libraries, how to connect to NASA databases, decide which mission data to choose, write functions fo calculuate periods and plot periograms - this agent skill does this all for you!
+Become a citizen exoplanet researcher. No need for you to know how to load the exoplanet-research specific libraries, how to connect to NASA databases, decide which mission data to choose, write functions to calculuate periods and plot periograms - this agent skill does this all for you!
 
 **Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanets:**
 
