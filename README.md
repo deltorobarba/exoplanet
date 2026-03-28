@@ -79,11 +79,19 @@ Research Kepler-8 b end to end: pull its NASA details, check what missions are a
 
 That prompt triggers the skill and walk through `details.py → missions.py → periodogram.py` in sequence 🪐
 
+```
  _________________       _________________       _________________
 |  Planet facts   |     |  Mission data   |     |   BLS output    |
 |  star + method  | --> |  Kepler · TESS  | --> |  period · plots  |
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+```
 
+```
+graph LR
+    A[**Planet facts** <br> star + method] --> B[**Mission data** <br> Kepler · TESS]
+    B --> C[**BLS output** <br> period · plots]
+
+```
 
 **Structure of this Skill**
 
