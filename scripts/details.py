@@ -6,6 +6,13 @@ Usage:
     python scripts/details.py --target "TRAPPIST-1 b" --table ps
 """
 
+# scripts/explore.py
+import sys
+from banner import print_banner
+
+# Print the banner right when the script starts
+print_banner()
+
 import argparse
 from astroquery.ipac.nexsci.nasa_exoplanet_archive import NasaExoplanetArchive
 
