@@ -43,33 +43,10 @@ Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 usin
 ```
 
 ```
-Compare the host star properties of K2-18 b and WASP-39 b (not working)
-```
-
-```
 What Kepler, TESS, and K2 observations are available for Kepler-8 b?
 ```
 ```
 Search all available mission data for K2-18 b and tell me which pipeline has the best cadence
-```
-
-**Visualize Infrared Data Plots**
-```
-Download the Kepler pixel file for Kepler-8 b and plot the pixel map
-```
-```
-Plot the normalized PLD light curve for Kepler-8 b with outliers removed
-```
-```
-Load the TESS SPOC 120s data for K2-18 b and visualize it
-```
-
-**Calculate Periodogram & Orbital Period**
-```
-Run a BLS periodogram on Kepler-8 b and find its orbital period
-```
-```
-Calculate the orbital period of Kepler-8 b and show me the phase-folded transit dip
 ```
 
 ---
