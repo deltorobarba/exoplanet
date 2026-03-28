@@ -13,6 +13,6 @@ def print_banner():
  | |___  / /\ \| |__| || |     | |____/ /   \ \| |\  || |___    | |   
  |_____|/_/  \_\\____/ |_|     |______/_/    \_\_| \_||_____|   |_|   
                                                                       
-    Exoplanet Research Skill v0.9 initialized...{RESET}
+    Exoplanet Research Skill initialized...{RESET}
 """
     print(ascii_art)
