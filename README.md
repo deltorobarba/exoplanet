@@ -34,20 +34,12 @@ Research Kepler-8 b end to end: pull its NASA details, check what missions are a
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-Ask questions about exoplanets:
+**🔭 Explore & discover more about exoplanets**
 
 ```
-Explore 5 confirmed exoplanets discovered in 2016 using the Transit method
+Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
 ```
 
-**🔭 Explore & discover**
-
-```
-Search for all confirmed exoplanets with "Kepler" in the name
-```
-```
-How many total confirmed exoplanets are in the NASA archive right now?
-```
 
 **🪐 Planet details**
 ```
