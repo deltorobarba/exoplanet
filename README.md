@@ -31,7 +31,7 @@ gemini skills install ./exoplanet
 ```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
 
-Sample questions to analyse exoplanets 🔭
+Sample questions for analysing exoplanets 🔭
 
 ```
 Explore 5 confirmed exoplanets with "Kepler" and "TRAPPIST" in the name discovered in 2016 using the Transit method
