@@ -29,6 +29,13 @@ the NASA Exoplanet Archive and the `lightkurve` library.
 
 ---
 
+## ⚠️ First-Run Setup (required)
+
+Before running any script, ensure dependencies are installed:
+```bash
+pip install -r requirements.txt --quiet
+```
+
 ## Setup
 
 Install dependencies once per environment:
@@ -46,12 +53,6 @@ pip install -r requirements.txt --quiet
 ---
 
 ## Step-by-Step Workflow
-
-When this skill is invoked, before running any script, display a styled 
-banner in your own output (not via shell) with:
-- Title: "🪐 EXOPLANET RESEARCH"  
-- Subtitle: "NASA Exoplanet Archive · Kepler · TESS · K2"
-- A short separator line
 
 ### 1 — Explore Exoplanets
 
