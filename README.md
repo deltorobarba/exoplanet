@@ -23,13 +23,15 @@ gemini skills install ./exoplanet
 
 **The power of Agent Skills is to run expert in procedual knowledge. Try to run this multi-step, fully automated astronomy workflow:**
 ```
-Research Kepler-8 b end to end: pull its NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
+Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
 
 
 ```
  _________________       _________________       _________________
-|  Planet facts   |     |  Mission data   |     |   BLS output    |
+|  NASA Exoplanet
+   Archive
+Planet facts   |     |  Mission data   |     |   BLS output    |
 |  star + method  | --> |  Kepler · TESS  | --> |  period · plots  |
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
@@ -40,14 +42,6 @@ Research Kepler-8 b end to end: pull its NASA details, check what missions are a
 Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
 ```
 
-
-**🪐 Planet details**
-```
-Pull full details for Kepler-8 b from the NASA Exoplanet Archive
-```
-```
-How far away is TRAPPIST-1 b and who discovered it?
-```
 ```
 Compare the host star properties of K2-18 b and WASP-39 b
 ```
