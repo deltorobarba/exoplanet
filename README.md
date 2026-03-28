@@ -33,8 +33,6 @@ gemini skills install ./exoplanet
 ```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
 
-*Artist's concept of the potentially habitable exoplanet Kepler-186f*
-
 Sample questions to analyse exoplanets 🔭
 
 ```
