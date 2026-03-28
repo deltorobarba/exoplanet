@@ -2,7 +2,8 @@
 
 *Author: Alexander Del Toro Barba, PhD*
 
-**Run this multi-step, fully automated astronomy workflow to explore & discover exoplanet missions:**
+Become a citizen exoplanet researcher. No need for you to know how to load the exoplanet-research specific libraries, how to connect to NASA databases, decide which mission data to choosw, write functions fo calculuate periods and plot periograms. 
+**Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanet missions:**
 
 Install skill on Gemini CLI:
 ```
