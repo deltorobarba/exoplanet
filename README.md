@@ -36,17 +36,16 @@ Planet facts   |     |  Mission data   |     |   BLS output    |
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-**🔭 Explore & discover more about exoplanets**
+**🔭 Explore & discover more about exoplanets and their 🛰️ Mission data**
 
 ```
 Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
 ```
 
 ```
-Compare the host star properties of K2-18 b and WASP-39 b
+Compare the host star properties of K2-18 b and WASP-39 b (not working)
 ```
 
-**🛰️ Mission data**
 ```
 What Kepler, TESS, and K2 observations are available for Kepler-8 b?
 ```
