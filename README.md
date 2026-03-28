@@ -4,10 +4,6 @@
 
 Become a citizen exoplanet researcher and turn your LLM into a NASA Research Assistant! 🔭
 
-This Exoplanet Research Skill automates the heavy lifting of astrophysics: loading specific libraries, querying NASA databases, selecting right mission data (Kepler or TESS), to calculating orbital periods of exoplanet transit. This agent skill does this all for you. So you can focus on the exoplanet discovery 🛰️
-
-**Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanets 🚀**
-
 ```
 git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
@@ -32,6 +28,11 @@ gemini skills install ./exoplanet
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kepler186f-ArtistConcept-20140417.jpg/960px-Kepler186f-ArtistConcept-20140417.jpg" width="400">
+
+
+This Exoplanet Research Skill automates the heavy lifting of astrophysics: loading specific libraries, querying NASA databases, selecting right mission data (Kepler or TESS), to calculating orbital periods of exoplanet transit. This agent skill does this all for you. So you can focus on the exoplanet discovery 🛰️
+
+**Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanets 🚀**
 
 Sample questions to analyse exoplanets 🔭
 
