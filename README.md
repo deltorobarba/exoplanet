@@ -23,12 +23,12 @@ gemini skills install ./exoplanet
 
 
 ```
- ___________________        _________________        _________________
-| Connect  NASA 🔭  |      | Load Mission 🛰️ |      |   Plots 🪐     |
-| Exoplanet Archive |  --> | Data from TESS  |  --> | land calculate |
-| for facts+methods |      |  and Kepler     |      |   Period       |
-|  'details.py'     |      | 'missions.py'   |      |'periodogram.py'|
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾          ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ _____________________        _________________        _________________
+| Connect to NASA 🔭  |      | Load Mission 🛰️ |      |   Plot  🪐     |
+| Exoplanet Archive   |  --> | Data from TESS  |  --> | and calculate  |
+| for facts+methods   |      |  and Kepler     |      |   Period       |
+|  'details.py'       |      | 'missions.py'   |      |'periodogram.py'|
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
 **🔭 Use skill pipeline 
