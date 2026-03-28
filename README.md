@@ -11,6 +11,15 @@ git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
 ```
 
+  _____  __  __  ____   _____   _         _     _   _  _____  _______ 
+ |  ___| \ \/ / / __ \ |  __ \ | |       / \   | \ | ||  ___||__   __|
+ | |__    \  / | |  | || |__) || |      / _ \  |  \| || |__     | |   
+ |  __|   /  \ | |  | ||  ___/ | |     / ___ \ | . ` ||  __|    | |   
+ | |___  / /\ \| |__| || |     | |____/ /   \ \| |\  || |___    | |   
+ |_____|/_/  \_\\____/ |_|     |______/_/    \_\_| \_||_____|   |_|   
+                                                                      
+    Exoplanet Research Skill initialized..
+
 **🔭 Explore & discover**
 ```
 Explore 5 confirmed exoplanets discovered in 2016 using the Transit method
