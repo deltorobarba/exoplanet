@@ -33,8 +33,8 @@ def get_tpf(target, author, exptime_s):
         raise RuntimeError(f"No pixel files found for '{target}'.")
 
     def _exptime_s(r):
-    val = r.exptime.value
-    return float(val.flat[0] if hasattr(val, 'flat') else val)
+      val = r.exptime.value
+      return float(val.flat[0] if hasattr(val, 'flat') else val)
 
     mask = [
       str(r.author) == author and abs(_exptime_s(r) - exptime_s) < 5
