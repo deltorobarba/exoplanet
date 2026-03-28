@@ -1,4 +1,4 @@
-# Exoplanet Research Skill for Starters
+# Exoplanet Research Skill
 
 *Author: Alexander Del Toro Barba, PhD*
 
