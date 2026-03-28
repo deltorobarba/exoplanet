@@ -10,7 +10,7 @@ Install skill on Gemini CLI:
 git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
 ```
-
+```
   _____  __  __  ____   _____   _         _     _   _  _____  _______ 
  |  ___| \ \/ / / __ \ |  __ \ | |       / \   | \ | ||  ___||__   __|
  | |__    \  / | |  | || |__) || |      / _ \  |  \| || |__     | |   
@@ -19,6 +19,7 @@ gemini skills install ./exoplanet
  |_____|/_/  \_\\____/ |_|     |______/_/    \_\_| \_||_____|   |_|   
                                                                       
     Exoplanet Research Skill initialized..
+```
 
 **🔭 Explore & discover**
 ```
