@@ -23,7 +23,9 @@ def search_and_print(label, emoji, results):
     print(f"  {'-'*64}")
     for i, row in enumerate(results):
         try:
-            exptime = f"{float(row.exptime.value):.0f}s" if hasattr(row, 'exptime') and row.exptime is not None else "?"
+            val = row.exptime.value
+            val = float(val.flat[0]) if hasattr(val, 'flat') else float(val)
+            exptime = f"{val:.0f}s" if ...
         except Exception:
             exptime = "?"
         try:
