@@ -22,10 +22,9 @@ gemini skills install ./exoplanet
 
 ```
  _____________________        _________________        _________________
-| Connect to NASA 🔭  |      | Load Mission 🛰️ |      |   Plot  🪐     |
-| Exoplanet Archive   |  --> | Data from TESS  |  --> | and calculate  |
-| for facts+methods   |      |  and Kepler     |      |   Period       |
-|  'details.py'       |      | 'missions.py'   |      |'periodogram.py'|
+| Connect to NASA 🔭  |      | Load Mission 🛰️ |      | Plot and  🪐    |
+| Exoplanet Archive   |  --> | TESS & Kepler.  |  --> | Calculate Period |
+|  'details.py'       |      | 'missions.py'   |      | 'periodogram.py' |
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
