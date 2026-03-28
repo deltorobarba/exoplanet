@@ -36,11 +36,11 @@ gemini skills install ./exoplanet
 Sample questions to analyse exoplanets 🔭
 
 ```
-Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
+Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
 ```
 
 ```
-Explore 5 confirmed exoplanets with "Kepler" in the name discovered in 2016 using the Transit method
+Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
 ```
 
 ```
