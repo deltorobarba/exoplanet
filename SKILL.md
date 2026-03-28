@@ -47,6 +47,12 @@ pip install -r requirements.txt --quiet
 
 ## Step-by-Step Workflow
 
+When this skill is invoked, before running any script, display a styled 
+banner in your own output (not via shell) with:
+- Title: "🪐 EXOPLANET RESEARCH"  
+- Subtitle: "NASA Exoplanet Archive · Kepler · TESS · K2"
+- A short separator line
+
 ### 1 — Explore Exoplanets
 
 Browse the full confirmed planet list, optionally filtered by year or discovery method.
