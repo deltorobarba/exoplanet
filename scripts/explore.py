@@ -10,6 +10,13 @@ Usage:
     python scripts/explore.py --limit 20               # Max rows to print (default 20)
 """
 
+# scripts/explore.py
+import sys
+from banner import print_banner
+
+# Print the banner right when the script starts
+print_banner()
+
 import argparse
 from astroquery.ipac.nexsci.nasa_exoplanet_archive import NasaExoplanetArchive
 
