@@ -35,7 +35,8 @@ How many total confirmed exoplanets are in the NASA archive right now?
 **🪐 Planet details**
 ```
 Pull full details for Kepler-8 b from the NASA Exoplanet Archive
-
+```
+```
 How far away is TRAPPIST-1 b and who discovered it?
 ```
 ```
