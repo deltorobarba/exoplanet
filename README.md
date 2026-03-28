@@ -2,8 +2,6 @@
 
 *Author: Alexander Del Toro Barba, PhD*
 
-**Run multi-step, fully automated astronomy workflow to explore & discover more about exoplanets and their Mission data**
-
 
 Install skill on Gemini CLI:
 ```
@@ -31,7 +29,7 @@ gemini skills install ./exoplanet
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-**🔭 Use skill pipeline 
+**Run multi-step, fully automated astronomy workflow to explore & discover more about exoplanets and their Mission data**
 
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
