@@ -6,7 +6,6 @@ Become a citizen exoplanet researcher. No need for you to know how to load the e
 
 **Just install and run this multi-step, fully automated astronomy workflow to explore & discover exoplanets:**
 
-Install skill on Gemini CLI:
 ```
 git clone https://github.com/deltorobarba/exoplanet.git
 gemini skills install ./exoplanet
@@ -31,7 +30,7 @@ gemini skills install ./exoplanet
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 ```
 
-Ask your questions to analyse exoplanets:
+Sample questions to analyse exoplanets:
 
 ```
 Research Kepler-8 b end to end: pull its full NASA details, check what missions are available, then run a BLS periodogram and calculate its orbital period
